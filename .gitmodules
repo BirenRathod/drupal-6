@@ -1,0 +1,3 @@
+[submodule "indicia-code"]
+	path = indicia-code
+	url = https://github.com/indicia-team/indicia-code.git
